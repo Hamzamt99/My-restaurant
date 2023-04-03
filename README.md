@@ -1,2 +1,2 @@
-# My-restaurant 
+# *My-restaurant* 
 ![wire-frame](wire.jpg)
